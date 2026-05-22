@@ -14,6 +14,9 @@ import userInteractions.UserInteractions;
  *
  *  - Stream API was used to simplify the filtering.
  *
+ *  Limitations:
+ *  - Only processes one order (1 product, 1 extra)
+ *
  *  TL;DR
  *  See documentation directory in project root.
  *
